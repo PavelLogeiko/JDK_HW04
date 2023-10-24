@@ -14,8 +14,8 @@
 
 Скрины работы приложения:
 
-![1]()
+![1](https://github.com/PavelLogeiko/JDK_HW04/blob/main/images/1.png)
 
-![2]()
+![2](https://github.com/PavelLogeiko/JDK_HW04/blob/main/images/2.png)
 
-![3]()
+![3](https://github.com/PavelLogeiko/JDK_HW04/blob/main/images/3.png)
